@@ -1,0 +1,52 @@
+﻿@model SoccerTeams.ViewModels.EditViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using SoccerTeams.DatabaseOperationsService
+<h2>Изменение игрока</h2>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Футболист</legend>
+
+        @Html.HiddenFor(model => model.Player.Id)
+
+        <p>
+            Имя игрока <br />
+            @Html.EditorFor(model => model.Player.Name)
+            @Html.ValidationMessageFor(model => model.Player.Name)
+        </p>
+
+        <p>
+            Возраст <br />
+            @Html.EditorFor(model => model.Player.Age)
+            @Html.ValidationMessageFor(model => model.Player.Age)
+        </p>
+
+        <p>
+            Позиция на поле  <br />
+            @Html.EnumDropDownListFor(model => model.Role)
+            @Html.ValidationMessageFor(model => model.Role)
+        </p>
+        <p>
+            Команда <br />
+            @Html.DropDownListFor(model => model.Player.TeamId, Model.TeamList)
+        </p>
+        <p>
+            Security Code
+            <div id="captcha" class="g-recaptcha" data-sitekey="6LdMJiQTAAAAAGfXrcIdQ-RTL8zxBLce8vp2vwqZ"></div>
+            <span class="field-validation-error">
+                <span>@ViewBag.Message</span>
+            </span>
+        </p>
+        <p>
+            <input type="submit" value="Сохранить" />
+        </p>
+    </fieldset>
+    
+}
+<div>
+    @Html.ActionLink("Вернуться к списку футболистов", "Index")
+</div>

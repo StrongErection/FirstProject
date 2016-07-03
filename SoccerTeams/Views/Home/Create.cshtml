@@ -1,0 +1,51 @@
+﻿@model SoccerTeams.ViewModels.CreateViewModel
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using System.Web.Mvc;
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<h2>Добавление нового игрока</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Футболист</legend>
+
+        <p>
+            Имя игрока <br />
+            @Html.EditorFor(model => model.Player.Name)
+            @Html.ValidationMessageFor(model => model.Player.Name)
+        </p>
+
+        <p>
+            Возраст <br />
+            @Html.EditorFor(model => model.Player.Age)
+            @Html.ValidationMessageFor(model => model.Player.Age)
+        </p>
+
+        <p>
+            Позиция на поле  <br />
+            @Html.EnumDropDownListFor(model => model.Role)
+            @Html.ValidationMessageFor(model => model.Role)
+        </p>
+        <p>
+            Команда <br />
+            @Html.DropDownListFor(model => model.Player.TeamId, Model.TeamList)
+        </p>
+        <p>
+            Security Code
+            <div id="captcha" class="g-recaptcha" data-sitekey="6LdMJiQTAAAAAGfXrcIdQ-RTL8zxBLce8vp2vwqZ"></div>
+            <span class="field-validation-error">
+                <span>@ViewBag.Message</span>
+            </span>
+        </p>
+        <p>
+            <input type="submit" value="Добавить игрока" />
+        </p>
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("К списку игроков", "Index")
+</div>

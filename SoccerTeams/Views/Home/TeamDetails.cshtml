@@ -1,0 +1,39 @@
+﻿@using DTOs
+@model SoccerTeams.ViewModels.TeamDetailsViewModel
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h4>Команда @Model.Team.Name</h4>
+    <hr />
+    <dl>
+        <dt>Название</dt>
+
+        <dd>
+            @Html.DisplayFor(model => @Model.Team.Name)
+        </dd>
+
+        <dt>Тренер</dt>
+
+        <dd>
+            @Html.DisplayFor(model => @Model.Team.Coach)
+        </dd>
+
+        <dt>Игроки</dt>
+
+        <dd>
+            <ul>
+                @foreach (PlayerDTO player in @Model.Team.Players)
+                {
+                    <li>@player.Name (@player.Position)</li>
+                }
+            </ul>
+        </dd>
+    </dl>
+    <div class="form-actions no-color">
+        @Html.ActionLink("Back to Players", "Index")
+    </div>
+</div>

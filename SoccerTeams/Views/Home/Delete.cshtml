@@ -1,0 +1,46 @@
+﻿@model SoccerTeams.ViewModels.DeleteViewModel
+
+@using System.Web.Mvc;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Удаление игрока</h2>
+
+<div>
+    <hr />
+    <fieldset>
+        <legend>Футболист</legend>
+
+        @Html.HiddenFor(model => model.Player.Id)
+
+        <p>
+            Имя игрока <br />
+            @Html.DisplayFor(model => model.Player.Name)
+        </p>
+
+        <p>
+            Возраст <br />
+            @Html.DisplayFor(model => model.Player.Age)
+        </p>
+
+        <p>
+            Позиция на поле  <br />
+            @Html.DisplayFor(model => model.Player.Position)
+        </p>
+        <p>
+            Команда <br />
+            @Html.DisplayFor(model => model.Player.Team.Name)
+        </p>
+    </fieldset>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

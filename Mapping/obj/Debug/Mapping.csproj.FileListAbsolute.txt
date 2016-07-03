@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\bin\Debug\Mapping.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\bin\Debug\Mapping.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\bin\Debug\AutoMapper.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\bin\Debug\AutoMapper.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\obj\Debug\Mapping.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\obj\Debug\Mapping.pdb

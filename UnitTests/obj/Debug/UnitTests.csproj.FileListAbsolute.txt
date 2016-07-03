@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\bin\Debug\UnitTests.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\bin\Debug\UnitTests.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\obj\Debug\UnitTests.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\obj\Debug\UnitTests.pdb

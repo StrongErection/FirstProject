@@ -1,0 +1,41 @@
+﻿@model SoccerTeams.ViewModels.IndexViewModel
+@using DTOs;
+@using System.Web.Mvc;
+<h2>Каталог игроков</h2>
+<p>
+    @Html.ActionLink("Добавить игрока", "Create")
+</p>
+<table>
+    <tr>
+        <th>Имя игрока</th>
+        <th>Возраст</th>
+        <th>Позиция на поле</th>
+        <th>Команда</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Players)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.ActionLink(item.Team.Name, "TeamDetails", new { id = item.TeamId })
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+<p>
+  
+</p>
