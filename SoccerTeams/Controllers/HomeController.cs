@@ -10,6 +10,7 @@ using System.IO;
 using SoccerTeams.ViewModels;
 using SoccerTeams.Models;
 using AutoMapper;
+using SoccerTeams.ServiceReference1;
 using DTOs;
 using SoccerTeams.Utils;
 using Newtonsoft.Json;
@@ -18,17 +19,19 @@ namespace SoccerTeams.Controllers
 {
     public class HomeController : Controller
     {
-        private DataAccessServiceClient client = new DataAccessServiceClient();
+
+        private ServiceClient client = new ServiceClient();
+        
         // Выводим всех футболистов
         public ActionResult Index()
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient()) {
+            using (ServiceClient client = new ServiceClient()) {
                 return View(new IndexViewModel { Players = client.FindAllPlayers().ToList<PlayerDTO>() });
             }
         }
         public ActionResult TeamDetails(int id)
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 TeamDTO team = client.FindTeam(id);
                 if (team == null)
@@ -45,7 +48,7 @@ namespace SoccerTeams.Controllers
         [HttpGet]
         public ActionResult Create()
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 return View(new CreateViewModel { Player = new PlayerDTO { Age = 20 }, TeamList = new SelectList(client.FindAllTeams(), "Id", "Name"), Role = Roles.Запасной });
             }
@@ -54,7 +57,7 @@ namespace SoccerTeams.Controllers
         [HttpPost]
         public ActionResult Create(CreateViewModel model)
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 PlayerDTO player = model.Player;
                 player.Position = model.Role.ToString();
@@ -74,7 +77,7 @@ namespace SoccerTeams.Controllers
         [HttpGet]
         public ActionResult Edit(int id)
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 PlayerDTO player = client.FindPlayer(id);
                 if (player != null)
@@ -92,7 +95,7 @@ namespace SoccerTeams.Controllers
         [HttpPost]
         public ActionResult Edit(EditViewModel model)
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 PlayerDTO player = model.Player;
                 player.Position = model.Role.ToString();
@@ -108,7 +111,7 @@ namespace SoccerTeams.Controllers
         [HttpGet]
         public ActionResult Delete(int id)
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 // Находим в бд футболиста
                 PlayerDTO player = client.FindPlayer(id);
@@ -125,7 +128,7 @@ namespace SoccerTeams.Controllers
         [HttpPost, ActionName("Delete")]
         public ActionResult DeleteConfirmed(int id)
         {
-            using (DataAccessServiceClient client = new DataAccessServiceClient())
+            using (ServiceClient client = new ServiceClient())
             {
                 client.DeletePlayer(id);
                 return RedirectToAction("Index");

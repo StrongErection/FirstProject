@@ -18,3 +18,23 @@ d:\documents\visual studio 2013\Projects\SoccerTeams\BusinessLogic\bin\Debug\Nin
 d:\documents\visual studio 2013\Projects\SoccerTeams\BusinessLogic\bin\Debug\Ninject.xml
 d:\documents\visual studio 2013\Projects\SoccerTeams\BusinessLogic\obj\Debug\BusinessLogic.dll
 d:\documents\visual studio 2013\Projects\SoccerTeams\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\SoccerTeams\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\SoccerTeams\BusinessLogic\bin\Debug\AutoMapper.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\DTOs.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\Mapping.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\Ninject.Web.Common.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\Ninject.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\WebActivatorEx.dll
+D:\SoccerTeams\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\SoccerTeams\BusinessLogic\bin\Debug\DTOs.pdb
+D:\SoccerTeams\BusinessLogic\bin\Debug\Mapping.pdb
+D:\SoccerTeams\BusinessLogic\bin\Debug\AutoMapper.xml
+D:\SoccerTeams\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\SoccerTeams\BusinessLogic\bin\Debug\Ninject.Web.Common.xml
+D:\SoccerTeams\BusinessLogic\bin\Debug\Ninject.xml
+D:\SoccerTeams\BusinessLogic\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\SoccerTeams\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\SoccerTeams\BusinessLogic\obj\Debug\BusinessLogic.pdb

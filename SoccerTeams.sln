@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "SoccerTeams\PresentationLayer.csproj", "{2CFA58E1-55DA-45C5-A7CB-A0B394D7DE67}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A9BBA881-9D83-414E-8605-3920D79556DD} = {A9BBA881-9D83-414E-8605-3920D79556DD}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessService", "DataAccessService\DataAccessService.csproj", "{E0E66560-5488-42E0-B7A2-09F1F3E27364}"
 EndProject
@@ -16,6 +19,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogic\BusinessLogicLayer.csproj", "{67474960-0FAA-4D9E-A10B-E63D88BE0039}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapping", "Mapping\Mapping.csproj", "{73B07219-CD6D-4955-9A0A-0C9137EC8532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfWsService", "WcfWsService\WcfWsService.csproj", "{A9BBA881-9D83-414E-8605-3920D79556DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +56,10 @@ Global
 		{73B07219-CD6D-4955-9A0A-0C9137EC8532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B07219-CD6D-4955-9A0A-0C9137EC8532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B07219-CD6D-4955-9A0A-0C9137EC8532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BBA881-9D83-414E-8605-3920D79556DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BBA881-9D83-414E-8605-3920D79556DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BBA881-9D83-414E-8605-3920D79556DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BBA881-9D83-414E-8605-3920D79556DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,3 +4,10 @@ d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\bin\Debug\AutoMappe
 d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\bin\Debug\AutoMapper.xml
 d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\obj\Debug\Mapping.dll
 d:\documents\visual studio 2013\Projects\SoccerTeams\Mapping\obj\Debug\Mapping.pdb
+D:\SoccerTeams\Mapping\bin\Debug\Mapping.dll
+D:\SoccerTeams\Mapping\bin\Debug\Mapping.pdb
+D:\SoccerTeams\Mapping\bin\Debug\AutoMapper.dll
+D:\SoccerTeams\Mapping\bin\Debug\AutoMapper.xml
+D:\SoccerTeams\Mapping\obj\Debug\Mapping.dll
+D:\SoccerTeams\Mapping\obj\Debug\Mapping.pdb
+D:\SoccerTeams\Mapping\obj\Debug\Mapping.csprojResolveAssemblyReference.cache
