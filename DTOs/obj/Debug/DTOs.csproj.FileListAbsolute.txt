@@ -3,8 +3,8 @@ d:\documents\visual studio 2013\Projects\SoccerTeams\DTOs\bin\Debug\DTOs.pdb
 d:\documents\visual studio 2013\Projects\SoccerTeams\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\SoccerTeams\DTOs\obj\Debug\DTOs.dll
 d:\documents\visual studio 2013\Projects\SoccerTeams\DTOs\obj\Debug\DTOs.pdb
-D:\SoccerTeams\DTOs\bin\Debug\DTOs.dll
-D:\SoccerTeams\DTOs\bin\Debug\DTOs.pdb
-D:\SoccerTeams\DTOs\obj\Debug\DTOs.dll
-D:\SoccerTeams\DTOs\obj\Debug\DTOs.pdb
-D:\SoccerTeams\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
+D:\FirstProject-master\DTOs\bin\Debug\DTOs.dll
+D:\FirstProject-master\DTOs\bin\Debug\DTOs.pdb
+D:\FirstProject-master\DTOs\obj\Debug\DTOs.dll
+D:\FirstProject-master\DTOs\obj\Debug\DTOs.pdb
+D:\FirstProject-master\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache

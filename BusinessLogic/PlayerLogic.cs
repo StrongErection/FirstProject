@@ -1,8 +1,5 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using DataAccessLayer;
 namespace BusinessLogic
 {
@@ -46,6 +43,14 @@ namespace BusinessLogic
             {
                 unit.PlayerRepository.Delete(id);
                 unit.Save();
+            }
+        }
+
+        public ICollection<Player> FilterByAge(int minAge, int maxAge)
+        {
+            using (UnitOfWork unit = new UnitOfWork())
+            {
+                return unit.PlayerRepository.GetPlayersFromTo_Age(minAge, maxAge);
             }
         }
     }

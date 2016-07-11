@@ -1,0 +1,23 @@
+﻿@using SoccerTeams.DatabaseOperationsService;
+@using System.ServiceModel;
+@model FaultException<ServiceData>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ServerError</title>
+</head>
+<body>
+    <div> 
+        <p>Error on server side happened</p>
+        <p>Details</p>
+        <p>@Model.Detail.ErrorMessage</p>
+    </div>
+
+</body>
+</html>

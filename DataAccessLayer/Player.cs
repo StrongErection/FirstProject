@@ -20,6 +20,6 @@ namespace DataAccessLayer
         public string Position { get; set; }
         public Nullable<int> TeamId { get; set; }
     
-        public virtual Team Team { get; set; }
+        public Team Team { get; set; }
     }
 }

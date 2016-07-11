@@ -18,5 +18,6 @@ namespace DataAccessLayer
         public int Age { get; set; }
         public string Position { get; set; }
         public Nullable<int> TeamId { get; set; }
+        public Team Team { get; set; }
     }
 }

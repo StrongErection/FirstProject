@@ -1,8 +1,6 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.Entity;
 using Mapping;
 namespace DataAccessLayer
@@ -58,6 +56,7 @@ namespace DataAccessLayer
         public ICollection<Player> GetPlayersFromTo_Age(int minAge, int maxAge)
         {
             return StaticMapper.MapCollections<Player, AgeRange_Result>(context.AgeRange(minAge, maxAge).ToList<AgeRange_Result>());
+            
         }
 
         public ICollection<Player> GetAllTeammates(int teamId)

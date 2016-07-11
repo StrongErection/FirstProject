@@ -1,0 +1,134 @@
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\SoccerTeams.dll.config
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\SoccerTeams.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\SoccerTeams.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Antlr3.Runtime.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\AutoMapper.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\DataAccessLayer.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\DataAccessService.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\DTOs.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\EntityFramework.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\EntityFramework.SqlServer.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Microsoft.Web.Infrastructure.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Newtonsoft.Json.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Helpers.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Mvc.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Optimization.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Razor.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.WebPages.Deployment.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.WebPages.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.WebPages.Razor.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\WebGrease.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Ninject.Web.Common.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Ninject.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\WebActivatorEx.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Mapping.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\BusinessLogic.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\DataAccessLayer.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\DataAccessService.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\DTOs.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\AutoMapper.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\EntityFramework.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\EntityFramework.SqlServer.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Newtonsoft.Json.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Helpers.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Mvc.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Optimization.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.Razor.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.WebPages.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.WebPages.Deployment.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\System.Web.WebPages.Razor.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Antlr3.Runtime.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Ninject.Web.Common.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Ninject.xml
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\Mapping.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\bin\BusinessLogic.pdb
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\obj\Debug\SoccerTeams.dll
+d:\documents\visual studio 2013\Projects\SoccerTeams\SoccerTeams\obj\Debug\SoccerTeams.pdb
+D:\FirstProject-master\SoccerTeams\bin\SoccerTeams.dll.config
+D:\FirstProject-master\SoccerTeams\bin\SoccerTeams.dll
+D:\FirstProject-master\SoccerTeams\bin\SoccerTeams.pdb
+D:\FirstProject-master\SoccerTeams\bin\Antlr3.Runtime.dll
+D:\FirstProject-master\SoccerTeams\bin\AutoMapper.dll
+D:\FirstProject-master\SoccerTeams\bin\DataAccessLayer.dll
+D:\FirstProject-master\SoccerTeams\bin\DataAccessService.dll
+D:\FirstProject-master\SoccerTeams\bin\DTOs.dll
+D:\FirstProject-master\SoccerTeams\bin\EntityFramework.dll
+D:\FirstProject-master\SoccerTeams\bin\EntityFramework.SqlServer.dll
+D:\FirstProject-master\SoccerTeams\bin\Microsoft.Web.Infrastructure.dll
+D:\FirstProject-master\SoccerTeams\bin\Newtonsoft.Json.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Helpers.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Mvc.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Optimization.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Razor.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.WebPages.Deployment.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.WebPages.dll
+D:\FirstProject-master\SoccerTeams\bin\System.Web.WebPages.Razor.dll
+D:\FirstProject-master\SoccerTeams\bin\WebGrease.dll
+D:\FirstProject-master\SoccerTeams\bin\WebActivatorEx.dll
+D:\FirstProject-master\SoccerTeams\bin\Ninject.dll
+D:\FirstProject-master\SoccerTeams\bin\Ninject.Web.Common.dll
+D:\FirstProject-master\SoccerTeams\bin\Mapping.dll
+D:\FirstProject-master\SoccerTeams\bin\BusinessLogic.dll
+D:\FirstProject-master\SoccerTeams\bin\DataAccessLayer.pdb
+D:\FirstProject-master\SoccerTeams\bin\DataAccessService.pdb
+D:\FirstProject-master\SoccerTeams\bin\DTOs.pdb
+D:\FirstProject-master\SoccerTeams\bin\AutoMapper.xml
+D:\FirstProject-master\SoccerTeams\bin\EntityFramework.xml
+D:\FirstProject-master\SoccerTeams\bin\EntityFramework.SqlServer.xml
+D:\FirstProject-master\SoccerTeams\bin\Newtonsoft.Json.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Helpers.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Mvc.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Optimization.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.Razor.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.WebPages.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.WebPages.Deployment.xml
+D:\FirstProject-master\SoccerTeams\bin\System.Web.WebPages.Razor.xml
+D:\FirstProject-master\SoccerTeams\bin\Antlr3.Runtime.pdb
+D:\FirstProject-master\SoccerTeams\bin\Ninject.xml
+D:\FirstProject-master\SoccerTeams\bin\Ninject.Web.Common.xml
+D:\FirstProject-master\SoccerTeams\bin\Mapping.pdb
+D:\FirstProject-master\SoccerTeams\bin\BusinessLogic.pdb
+D:\FirstProject-master\SoccerTeams\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\FirstProject-master\SoccerTeams\obj\Debug\SoccerTeams.dll
+D:\FirstProject-master\SoccerTeams\obj\Debug\SoccerTeams.pdb
+D:\FirstProject-master\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\FirstProject-master\PresentationLayer\bin\SoccerTeams.dll.config
+D:\FirstProject-master\PresentationLayer\bin\SoccerTeams.dll
+D:\FirstProject-master\PresentationLayer\bin\SoccerTeams.pdb
+D:\FirstProject-master\PresentationLayer\bin\Antlr3.Runtime.dll
+D:\FirstProject-master\PresentationLayer\bin\AutoMapper.dll
+D:\FirstProject-master\PresentationLayer\bin\DataAccessLayer.dll
+D:\FirstProject-master\PresentationLayer\bin\DTOs.dll
+D:\FirstProject-master\PresentationLayer\bin\EntityFramework.dll
+D:\FirstProject-master\PresentationLayer\bin\EntityFramework.SqlServer.dll
+D:\FirstProject-master\PresentationLayer\bin\Microsoft.Web.Infrastructure.dll
+D:\FirstProject-master\PresentationLayer\bin\Newtonsoft.Json.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Helpers.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Mvc.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Optimization.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Razor.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.WebPages.Deployment.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.WebPages.dll
+D:\FirstProject-master\PresentationLayer\bin\System.Web.WebPages.Razor.dll
+D:\FirstProject-master\PresentationLayer\bin\WebGrease.dll
+D:\FirstProject-master\PresentationLayer\bin\Ninject.dll
+D:\FirstProject-master\PresentationLayer\bin\Mapping.dll
+D:\FirstProject-master\PresentationLayer\bin\DataAccessLayer.pdb
+D:\FirstProject-master\PresentationLayer\bin\DTOs.pdb
+D:\FirstProject-master\PresentationLayer\bin\AutoMapper.xml
+D:\FirstProject-master\PresentationLayer\bin\EntityFramework.xml
+D:\FirstProject-master\PresentationLayer\bin\EntityFramework.SqlServer.xml
+D:\FirstProject-master\PresentationLayer\bin\Newtonsoft.Json.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Helpers.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Mvc.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Optimization.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.Razor.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.WebPages.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.WebPages.Deployment.xml
+D:\FirstProject-master\PresentationLayer\bin\System.Web.WebPages.Razor.xml
+D:\FirstProject-master\PresentationLayer\bin\Antlr3.Runtime.pdb
+D:\FirstProject-master\PresentationLayer\bin\Ninject.xml
+D:\FirstProject-master\PresentationLayer\bin\Mapping.pdb
+D:\FirstProject-master\PresentationLayer\obj\Debug\SoccerTeams.dll
+D:\FirstProject-master\PresentationLayer\obj\Debug\SoccerTeams.pdb

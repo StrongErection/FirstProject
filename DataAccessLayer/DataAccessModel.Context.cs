@@ -20,8 +20,8 @@ namespace DataAccessLayer
         public SoccerEntities()
             : base("name=SoccerEntities")
         {
-            this.Configuration.ProxyCreationEnabled = false;
             this.Configuration.LazyLoadingEnabled = false;
+            this.Configuration.ProxyCreationEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

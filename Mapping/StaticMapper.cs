@@ -1,8 +1,5 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using AutoMapper;
 namespace Mapping
 {
@@ -19,7 +16,6 @@ namespace Mapping
                 destCollection.Add(Mapper.DynamicMap<TSrc, TDest>(srcElement));
                 Mapper.AssertConfigurationIsValid();
             }
-            Mapper.AssertConfigurationIsValid();
             Mapper.Reset();
             return destCollection;
         }

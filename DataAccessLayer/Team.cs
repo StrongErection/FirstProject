@@ -14,6 +14,7 @@ namespace DataAccessLayer
     
     public partial class Team
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Team()
         {
             this.Players = new HashSet<Player>();
@@ -23,6 +24,7 @@ namespace DataAccessLayer
         public string Name { get; set; }
         public string Coach { get; set; }
     
-        public virtual ICollection<Player> Players { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public ICollection<Player> Players { get; set; }
     }
 }

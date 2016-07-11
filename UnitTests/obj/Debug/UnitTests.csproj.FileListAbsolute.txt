@@ -3,8 +3,30 @@ d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\bin\Debug\UnitTes
 d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\obj\Debug\UnitTests.dll
 d:\documents\visual studio 2013\Projects\SoccerTeams\UnitTests\obj\Debug\UnitTests.pdb
-D:\SoccerTeams\UnitTests\bin\Debug\UnitTests.dll
-D:\SoccerTeams\UnitTests\bin\Debug\UnitTests.pdb
-D:\SoccerTeams\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
-D:\SoccerTeams\UnitTests\obj\Debug\UnitTests.dll
-D:\SoccerTeams\UnitTests\obj\Debug\UnitTests.pdb
+D:\FirstProject-master\UnitTests\bin\Debug\UnitTests.dll
+D:\FirstProject-master\UnitTests\bin\Debug\UnitTests.pdb
+D:\FirstProject-master\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\FirstProject-master\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\FirstProject-master\UnitTests\obj\Debug\UnitTests.dll
+D:\FirstProject-master\UnitTests\obj\Debug\UnitTests.pdb
+D:\FirstProject-master\UnitTests\bin\Debug\UnitTests.dll.config
+D:\FirstProject-master\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\FirstProject-master\UnitTests\bin\Debug\SoccerTeams.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Helpers.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Mvc.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Razor.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.WebPages.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Optimization.dll
+D:\FirstProject-master\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\FirstProject-master\UnitTests\bin\Debug\SoccerTeams.pdb
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Helpers.xml
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Mvc.xml
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Razor.xml
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.WebPages.xml
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\FirstProject-master\UnitTests\bin\Debug\System.Web.Optimization.xml
+D:\FirstProject-master\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\FirstProject-master\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache

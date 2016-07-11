@@ -1,0 +1,13 @@
+﻿
+@model SoccerTeams.ViewModels.AjaxViewModel
+
+<div id="searchresults">
+    <h3>Футболисты от @Model.Min до @Model.Max лет</h3>
+        @foreach (var player in Model.Players)
+        {
+            @Html.DisplayFor(item => player.Name)
+            <pre>   </pre>
+            @Html.DisplayFor(item => player.Age)
+            <br />
+        }
+</div>

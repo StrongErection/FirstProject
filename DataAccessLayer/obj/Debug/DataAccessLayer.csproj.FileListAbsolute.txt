@@ -20,25 +20,21 @@ d:\documents\visual studio 2013\Projects\SoccerTeams\DataAccessLayer\bin\Debug\N
 d:\documents\visual studio 2013\Projects\SoccerTeams\DataAccessLayer\bin\Debug\AutoMapper.xml
 d:\documents\visual studio 2013\Projects\SoccerTeams\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 d:\documents\visual studio 2013\Projects\SoccerTeams\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-D:\SoccerTeams\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
-D:\SoccerTeams\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-D:\SoccerTeams\DataAccessLayer\bin\Debug\EntityFramework.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Mapping.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Ninject.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Ninject.Web.Common.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Ninject.Web.Mvc.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\WebActivatorEx.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\AutoMapper.dll
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Mapping.pdb
-D:\SoccerTeams\DataAccessLayer\bin\Debug\EntityFramework.xml
-D:\SoccerTeams\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Ninject.xml
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Ninject.Web.Common.xml
-D:\SoccerTeams\DataAccessLayer\bin\Debug\Ninject.Web.Mvc.xml
-D:\SoccerTeams\DataAccessLayer\bin\Debug\AutoMapper.xml
-D:\SoccerTeams\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
-D:\SoccerTeams\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-D:\SoccerTeams\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\FirstProject-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\FirstProject-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\FirstProject-master\DataAccessLayer\bin\Debug\AutoMapper.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\Mapping.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\Ninject.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\WebActivatorEx.dll
+D:\FirstProject-master\DataAccessLayer\bin\Debug\Mapping.pdb
+D:\FirstProject-master\DataAccessLayer\bin\Debug\AutoMapper.xml
+D:\FirstProject-master\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\FirstProject-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\FirstProject-master\DataAccessLayer\bin\Debug\Ninject.xml
+D:\FirstProject-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\FirstProject-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\FirstProject-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
